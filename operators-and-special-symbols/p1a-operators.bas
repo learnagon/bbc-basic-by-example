@@ -8,6 +8,6 @@
 50 REM PRINT ~15
 60 :
 70 decimal_number = 15 : REM This decimal number 15 is equal to F in hexadecimal format.
-
+75 PRINT "Decimal number: ";decimal_number;" is equal to hexadecimal value: "; ~decimal_number
 80 END
 
