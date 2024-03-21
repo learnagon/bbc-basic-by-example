@@ -1,8 +1,8 @@
-10 REM > P1A-OPERATORS.BAS
+10 REM > P1A-TILDE-OPERATOR.BAS
 15 CLS: REM Clear the screen
 20 REM OPERATORS EXPLAINED BY EXAMPLE
 25 :
-30 REM *** ~ OPERATOR ***
+30 REM *** TILDE '~' OPERATOR ***
 35 :
 40 REM A character in the start of a print field indicating that the item is to be printed in hexadecimal. Also used with STR$ to cause conversion to a hexadecimal string.
 45 :
