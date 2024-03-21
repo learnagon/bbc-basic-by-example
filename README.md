@@ -10,7 +10,7 @@ Follow along with these short programs, which you can use as they are or modify 
 
 ### Operators and Special Symbols
 
-  P1A1-TILDE-OPERATOR
+  P1A1-TILDE-OPERATOR.BAS
   
   P1B1-SPECIAL-SYMBOL-(symbol name here...)
 
