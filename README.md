@@ -8,20 +8,20 @@ Follow along with these short programs, which you can use as they are or modify 
 
 ## Categories of programs:
 
-### P1. Operators and Special Symbols
+### Operators and Special Symbols
 
-  P1a. Operators
+  P1A1-TILDE-OPERATOR
   
-  P1b. Special Symbols
+  P1B1-SPECIAL-SYMBOL-(symbol name here...)
 
-### P2. Keywords
+### Keywords
 
-  P2a. Keywords
+  P2A1-KEYWORD-(KEYWORD NAME HERE...)
 
-### P3. Procedures and Functions
+### Procedures and Functions
 
-  P3a. Procedures
+  P3A1-PROCEDURE-(PROCEDURE NAME HERE...)
   
-  P3b. Functions
+  P3B1-FUNCTION-(FUNCTION NAME HERE...)
 
 #### To be continued...
