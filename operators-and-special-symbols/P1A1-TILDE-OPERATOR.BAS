@@ -1,8 +1,9 @@
    10 REM > P1A1-TILDE-OPERATOR.BAS
    11 :
    12 REM https://youtu.be/OyWWlzANOg8
-   13 :
-   15 CLS: REM Clear the screen
+   13 REM https://github.com/learnagon/bbc-basic-by-example
+   14 :
+   15 CLS
    16 :
    20 REM OPERATORS EXPLAINED BY EXAMPLE
    22 :
