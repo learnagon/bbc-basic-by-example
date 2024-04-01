@@ -5,6 +5,8 @@
    50 REM *      BY STEVE LOVEJOY      *
    60 REM *   ICON BY ARNOLD MESZAROS  *
    70 REM ******************************
+   75 REM * EDITED BY: LEARN AGON      *
+   77 REM ******************************
    80 :
    90 DIM VDP_ARRAY(31) : DIM MOS_ARRAY(31)
    95 ANYKEY%=INKEY(200) : REM DELAY TO MAKE SURE VERSION INFO ON SCREEN (tweak me, try lower until vdp & mos info disappear's).
