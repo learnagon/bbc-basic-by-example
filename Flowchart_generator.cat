@@ -1,0 +1,31 @@
+
+Disk :5/5/88 C
+400 sectors on disk
+bootoption: *EXEC !BOOT
+File       Load   Exec  Length Access  startsector
+$.OUT          0 FFFFFF    2CB           276
+$.TEST11       0 FFFFFF     61           275
+$.TEST7        0 FFFFFF     5A           274
+$.TEST9        0 FFFFFF     60           273
+$.TEST8        0 FFFFFF     5D           272
+$.TEST6        0 FFFFFF     2A           271
+$.TEST5        0 FFFFFF     51           270
+$.TEST4        0 FFFFFF     4F           269
+$.TEST3        0 FFFFFF     5E           268
+$.TEST1        0 FFFFFF     56           267
+$.TEST2        0 FFFFFF     4D           266
+$.TEST10       0 FFFFFF     60           265
+$.NH      FF1900 FF8023   47B6           189
+$.HHH     FF1900 FF8023   4933           115
+$.             0      0      6           114
+$.CODE      6D00   6D00    F00            98
+$.TITLEP  FF1900 FF8023   112F Locked     80
+$.PROG    FF1900 FF8023   47CC Locked      8
+$.PRINOUT    A00    A00    170             6
+$.SHOWIT  FF1900 FF8023     D4             5
+$.CURPROG      0 FFFFFF      5             4
+$.SHIFT   FF1900 FF8023     D6 Locked      3
+$.!BOOT        0 FFFFFF      B Locked      2
+
+23 files
+Total 66178 bytes
