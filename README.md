@@ -16,12 +16,10 @@ Follow along with these short programs, which you can use as they are or modify 
 
 ### Keywords
 
-  P2A1-KEYWORD-(KEYWORD NAME HERE...)
+Not sure what naming convention to use yet... :)  
 
 ### Procedures and Functions
 
-  P3A1-PROCEDURE-(PROCEDURE NAME HERE...)
   
-  P3B1-FUNCTION-(FUNCTION NAME HERE...)
 
 #### To be continued...
