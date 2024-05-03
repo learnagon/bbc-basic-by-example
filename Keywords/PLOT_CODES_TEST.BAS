@@ -4,7 +4,7 @@
    18 CLG
    20 REM > PLOT_CODES_TEST.BAS
    30 :
-   40 REM Try to programatically test the PLOT KEYWORD and codes.
+   40 REM Try to programmatically test the PLOT KEYWORD and codes.
    50 :
    60 FOR code%=0 TO 7
    70   PLOT code%, 50+code%, 50+code%
