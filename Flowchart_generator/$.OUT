@@ -1,11 +1,0 @@
-10A$="OO":PRINT"--------------------":PRINTTAB(10)"10ƒ";"A$='";A$;"' ";:PRINT
-20PRINT"--------------------":PRINTTAB(10)"20ƒ";"A$='";A$;"' ";:PRINT:INPUTA$:
-30PRINT"--------------------":PRINTTAB(10)"30ƒ";"A$='";A$;"' ";:PRINT:PRINTA$:
-40PRINT"--------------------":PRINTTAB(10)"40ƒ";"A$='";A$;"' ";:PRINT:IF A$="HELLO" THEN GOTO 60:
-50PRINT"--------------------":PRINTTAB(10)"50ƒ";"A$='";A$;"' ";:PRINT:PRINT"BYE!":
-60PRINT"--------------------":PRINTTAB(10)"60ƒ";"A$='";A$;"' ";:PRINT:GOTO20:
-1000PRINT"Press a key to return to menu":Q$=GET$
-1010VDU3:CH."PROG"
-1ON ERROR VDU3:CH."PROG"
-2CLS:PRINT''"Do you want a printout‚Y/N ?":REPEAT:Q$=GET$:UNTIL ASCQ$=89 OR ASCQ$=78:IF ASCQ$=89 THEN VDU2 ELSE VDU3
-
