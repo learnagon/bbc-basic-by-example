@@ -1,0 +1,26 @@
+SET KEYBOARD 1
+SET CONSOLE 1
+
+HOTKEY 1 CHAIN "%s"
+HOTKEY 2 LOAD "%s"
+HOTKEY 3 RUN
+HOTKEY 4 SAVE "%s"
+
+HOTKEY 5 LIST
+HOTKEY 6 MODE 4 : COLOR 128 : COLOR 2 : CLS : VDU 14 : *ls -l
+HOTKEY 7 *nano %s
+HOTKEY 8 *more %s
+ 
+HOTKEY 9 *hexload vdp %s
+HOTKEY 10 CLS:AUTO
+HOTKEY 11 MODE 4 : COLOR 143 : COLOR 00 : CLS : *bye
+HOTKEY 12 MODE 8 : COLOR 128 : COLOR 1 : CLS : PR. : PR."          READY TO LEARN AGON!": COLOR 2
+
+#FONT /fonts/invaders.f08
+#FONT /fonts/courier.f08
+
+#VDU 7
+
+LOAD bbcbasic.bin
+RUN . bootscreen_1.bas
+*MOS_SETRTC
